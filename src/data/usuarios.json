@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "email": "ana@email.com",
+    "dataCriacao": "2026-08-29T17:01:04.959Z"
+  },
+  {
+    "id": 2,
+    "nome": "Ana da Silva",
+    "email": "anasilva@email.com",
+    "dataCriacao": "2026-08-29T17:04:03.972Z"
+  }
+]
